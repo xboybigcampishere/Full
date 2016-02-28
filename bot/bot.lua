@@ -236,7 +236,15 @@ function create_config( )
       "id",
       "moderation",
       "plugins",
+      "info",
+      "pm",
+      "autoleave",
+      "qr",
       "persian_lang",
+      "mirror",
+      "addpouya",
+      sticker",
+      "feedback",
       "settings",
       "spam",
       "spanish_lang",
@@ -244,7 +252,7 @@ function create_config( )
       "italian_lang",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {83150569},
     admin_users = {},
     disabled_channels = {}
   }
