@@ -243,7 +243,7 @@ function create_config( )
       "persian_lang",
       "mirror",
       "addpouya",
-      sticker",
+      "sticker",
       "feedback",
       "settings",
       "spam",
